@@ -1,0 +1,19 @@
+p.first-paragraph{
+    background-color:aqua;
+    
+    
+     /* App.js file */    
+}
+
+h1.top-heading{
+    text-align: center;
+     /* App.js file */
+}
+
+.counter-body{
+    background-color: red ;
+    text-align: center;
+     /* Counter.jsx file */
+
+}
+
